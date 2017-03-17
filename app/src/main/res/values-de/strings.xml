@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Beliebte Filme</string>
+    <string name="details_intent">Film Details</string>
+    <string name="menu_perferences">Einstellungen</string>
+    <string name="movie_details_average_votes">"Bewertung: "</string>
+    <string name="movie_details_release_date">"Veröffentlicht: "</string>
+    <string name="no_internet_connection">Keine Internet Verbindung</string>
+</resources>

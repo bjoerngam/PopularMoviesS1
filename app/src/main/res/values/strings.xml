@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="details_intent">Movie Details</string>
+    <string name="menu_perferences">Settings</string>
+    <string name="movie_details_average_votes">Average Votes: </string>
+    <string name="movie_details_release_date">Release Date: </string>
+    <string name="no_internet_connection">No working internet connection</string>
+</resources>
